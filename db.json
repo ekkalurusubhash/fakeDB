@@ -1,7 +1,7 @@
 {
     "students": [
         {
-            "student_id": "S123456789",
+            "id": 1,
             "name": "John Doe",
             "DOB": "2005-07-15",
             "class": "Grade 10",
@@ -17,7 +17,7 @@
             "isEditing": false
         },
         {
-            "student_id": "S234567890",
+            "id": 2,
             "name": "Jane Smith",
             "DOB": "2006-04-22",
             "class": "Grade 9",
@@ -33,7 +33,7 @@
             "isEditing": false
         },
         {
-            "student_id": "S345678901",
+            "id": 3,
             "name": "Alice Johnson",
             "DOB": "2004-12-10",
             "class": "Grade 11",
@@ -49,7 +49,7 @@
             "isEditing": false
         },
         {
-            "student_id": "S456789012",
+            "id": 4,
             "name": "Tom Brown",
             "DOB": "2003-10-05",
             "class": "Grade 12",
@@ -65,7 +65,7 @@
             "isEditing": false
         },
         {
-            "student_id": "S567890123",
+            "id": 5,
             "name": "Emma Wilson",
             "DOB": "2007-01-18",
             "class": "Grade 8",
@@ -81,7 +81,7 @@
             "isEditing": false
         },
         {
-            "student_id": "S678901234",
+            "id": 6,
             "name": "Oliver Garcia",
             "DOB": "2005-09-30",
             "class": "Grade 9",
@@ -97,7 +97,7 @@
             "isEditing": false
         },
         {
-            "student_id": "S789012345",
+            "id": 7,
             "name": "Sophia Martinez",
             "DOB": "2004-03-25",
             "class": "Grade 10",
@@ -113,7 +113,7 @@
             "isEditing": false
         },
         {
-            "student_id": "S890123456",
+            "id": 8,
             "name": "William Brown",
             "DOB": "2006-11-08",
             "class": "Grade 8",
@@ -129,7 +129,7 @@
             "isEditing": false
         },
         {
-            "student_id": "S901234567",
+            "id":9,
             "name": "Charlotte Lee",
             "DOB": "2003-06-12",
             "class": "Grade 11",
@@ -145,7 +145,7 @@
             "isEditing": false
         },
         {
-            "student_id": "S012345678",
+            "id":10,
             "name": "Mia Taylor",
             "DOB": "2007-08-03",
             "class": "Grade 9",
@@ -160,11 +160,5 @@
             "photo": "assets/img/avatar0.png",
             "isEditing": false
         }
-    ],
-    "posts": [
-        {
-            "id": 1,
-            "title": "hello"
-        }
-    ]
+    ] 
 }
