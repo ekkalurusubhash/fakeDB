@@ -160,5 +160,11 @@
             "photo": "assets/img/avatar0.png",
             "isEditing": false
         }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello"
+        }
     ]
 }
