@@ -160,5 +160,56 @@
             "photo": "assets/img/avatar0.png",
             "isEditing": false
         }
-    ] 
+    ],
+    "teachers":[
+    {
+        "name": "Yatin Xarma",
+        "subject": "Programming",
+        "qualification": "B.Tech",
+        "fees": "$217.70"
+    },
+    {
+        "name": "Jack Xarma",
+        "subject": "Programming",
+        "qualification": "B.Tech",
+        "fees": "$19.2.70"
+    },
+    {
+        "name": "Hanu",
+        "subject": "Programming",
+        "qualification": "B.Tech",
+        "fees": "$217.70"
+    },
+    {
+        "name": "Jorge",
+        "subject": "History",
+        "qualification": "BA",
+        "fees": "$212.70"
+    },
+    {
+        "name": "James Brown",
+        "subject": "History",
+        "qualification": "B.Com",
+        "fees": "$15.70"
+    },
+    {
+        "name": "James",
+        "subject": "History",
+        "qualification": "B.Com",
+        "fees": "$21.70"
+    },
+    {
+        "name": "Harry John",
+        "subject": "History",
+        "qualification": "B.Tech",
+        "fees": "$18.70"
+    },
+    {
+        "name": "Jorge Clek",
+        "subject": "English",
+        "qualification": "BA",
+        "fees": "$22.70"
+    }
+]
+
 }
